@@ -1,6 +1,6 @@
 # :sparkles: Luna's Frontend Masters Space :sparkles:
 
-## :crescent_moon: A repository housing code used to learn from the Frontend Masters Course. :crescent_moon
+## :crescent_moon: A repository housing code used to learn from the Frontend Masters Course. :crescent_moon:
 
 Will Deploy in the future with Netlify!
 
