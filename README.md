@@ -2,7 +2,7 @@
 
 ## :crescent_moon: A repository housing code used to learn from the Frontend Masters Course. :crescent_moon
 
-Will Deploy in the futureeployed with Netlify!
+Will Deploy in the future with Netlify!
 
 ### Tools Used
 
