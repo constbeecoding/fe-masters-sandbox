@@ -2,7 +2,12 @@
 
 ## :crescent_moon: A repository housing code used to learn from the Frontend Masters Course. :crescent_moon:
 
-Will Deploy in the future with Netlify!
+I use this space to:
+
+* Explore converting components to VUE.
+* Explore using SCSS + Tailwind.
+* Explore a possible PHP conversion.
+* Will Deploy in the future with Netlify!
 
 ### Tools Used
 
